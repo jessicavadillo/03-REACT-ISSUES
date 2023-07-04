@@ -3,7 +3,7 @@ const Header = () => {
       <>
         <nav className='navbar bg-body-tertiary'>
           <div className='container-fluid'>
-            <span className='navbar-brand mb-0 h1'>REACT ISSUES</span>
+            <span className='navbar-brand mb-0 h1'>MOST COMMON REACT ISSUES </span>
           </div>
         </nav>
       </>
